@@ -42,7 +42,7 @@ class App extends Component {
           <Text>Dapatkan data</Text>
         </TouchableOpacity>
         <TouchableOpacity onPress={() => this.postData()}>
-          <Text>Kirimkan Data</Text>
+          <Text>Kirimkan Data Baru</Text>
         </TouchableOpacity>
 
         <FlatList
