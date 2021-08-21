@@ -1,1 +1,1 @@
-# xmple code for get and post 
+# xmple code for get and post  in APP js
